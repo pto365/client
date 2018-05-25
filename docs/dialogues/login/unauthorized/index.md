@@ -1,5 +1,6 @@
 ---
 title: Login
+buttonLogin: Login
 ---
 
 Login is a feature which will make it possible for individualising content e.g. by showing which services you have access to.
