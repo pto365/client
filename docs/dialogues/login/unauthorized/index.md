@@ -14,4 +14,4 @@ After you have authenticated, you are requested to granted a limited set of perm
 
 ## Heading 2
 
-*bold* [dr](www.dr.dk)
+*bold* [dr](https://www.dr.dk)
