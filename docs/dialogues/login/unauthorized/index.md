@@ -10,8 +10,8 @@ Currently we have no added functionality but the ability to log you in,  and ver
 We use Microsoft for managing the login process. You can use either your company or school account, or a Microsoft account. 
 After you have authenticated, you are requested to granted a limited set of permissions as shown in this image
   
-#Heading 1
+# Heading 1
 
-##Heading 2
+## Heading 2
 
-*bold* (../html)
+*bold* [dr](www.dr.dk)
