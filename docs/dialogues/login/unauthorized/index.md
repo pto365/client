@@ -14,3 +14,6 @@ After you have authenticated, you are requested to granted a limited set of perm
 ![](./consent.png)
 
 [Login](#/action/login)
+
+### Ideas?
+[Check out here](https://ideas.jumpto365.com/)
