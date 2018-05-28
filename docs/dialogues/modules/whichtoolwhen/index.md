@@ -22,15 +22,18 @@ Both are described here
 | | Write a letter | Word |  |  | | Notepad  | Skriv et brev | 手紙を書く  | |
 | | | Word Online |  |  | | | | | |
 
+
+### Columns explanied
+
 | Column | Definition | Example |
 | --- | --- | --- |
 | Area | Area of task |  Document authoring |
 | Task | Topic of task | Write a document
-| 5 | Best tool for the job| Word |
-| 4 | | . |
-| 3 | | . |
-| 2 | | . |
-| 1 | Worst match| Notepad |
+| 5 | Tag of Best tool for the job| Word |
+| 4 | | Tag |
+| 3 | | Tag |
+| 2 | | Tag | 
+| 1 | Tag of worst tool | Notepad |
 | (xx) | Translation, use an [ISO 639-1 Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) | ja for Japanese|
 
 ## Tools tab
@@ -38,6 +41,16 @@ Both are described here
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Outlook | #/services/outlook | . | data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA.... | Outlook | Outlook |
 | Megawriter | https://megawriter |. |data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA.... | 
+
+### Columns explanied
+
+| Column | Definition | Example |
+| --- | --- | --- |
+| Tag | Tag of the tool, 2 types support - short and long |  Word  or Microsoft.Word if Word is having another use in your domain |
+| Link | Link to the tool | http://xxx or #/service/word or https://office.live.com/start/Word.aspx 
+| Description | 
+| Icon | | . |
+| (xx) | Translation, use an [ISO 639-1 Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) | ja for Japanese|
 
 ### Sample screenshots
 
