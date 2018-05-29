@@ -25,7 +25,7 @@ Both are described here
 | | | Word Online |  |  | | | | | |
 
 
-### Columns explanied
+### Columns 
 
 | Column | Definition | Example |
 | --- | --- | --- |
@@ -37,6 +37,8 @@ Both are described here
 | 2 | | Tag | 
 | 1 | Tag of worst tool | Notepad |
 | (xx) | Translation, use an [ISO 639-1 Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) | ja for Japanese|
+___
+
 
 ## Tools tab
 | Tag | Link | Description | Icon |  da | en |
@@ -44,7 +46,9 @@ Both are described here
 | Outlook | #/services/outlook | . | data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA.... | Outlook | Outlook |
 | Megawriter | https://megawriter |. |data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA.... | 
 
-### Columns explanied
+
+
+### Columns 
 
 | Column | Definition | Example |
 | --- | --- | --- |
@@ -53,6 +57,8 @@ Both are described here
 | Description | 
 | Icon | | . |
 | (xx) | Translation, use an [ISO 639-1 Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) | ja for Japanese|
+___
+
 
 ### Sample screenshots
 
