@@ -3,7 +3,8 @@ title: Sitemap
 layout: page
 ---
 <ul>
- {% for page in site.pages %}
+{% assign allPages = site.pages | sort: 'url' %}
+ {% for page in  allPages %}
 <li >
     <a href="{{site.baseurl}}{{ page.url }}">{{page.title}} ({{ page.url }})</a>
 </li>

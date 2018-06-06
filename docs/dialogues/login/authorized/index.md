@@ -1,5 +1,6 @@
+{% assign tenant = site.data.tenant %}
 ---
-title: Warm welcome to {{site.data.tenant.displayName}}
+title: Warm welcome to {{ tenant.displayName }}
 action1title: Configure
 action1: We have some questions for you which impacts the experience.
 action2title: Change Owner
@@ -11,4 +12,4 @@ Your are the first to visit Jumpto365 from your Office 365 tenant, so you have b
 
 We are happy to shared [The Introduction](https://medium.com/jumpto365/introducing-the-dynamic-periodic-table-of-office-365-2b419de32c24)
 
-Tenant: {{site.data.tenant.displayName}}
+Tenant: {{ tenant.displayName }}
