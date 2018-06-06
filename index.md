@@ -3,7 +3,7 @@ title: Pages
 layout: page
 ---
 
-| Title | Link |
+| Title | Link | Language |
 | --- | --- |{% assign allPages = site.pages | sort: 'url' %}
-{% for page in  allPages %}| {{page.title}} | <a href="{{site.baseurl}}{{ page.url }}"> ({{ page.url }})</a> |
+{% for page in  allPages %}| {{page.title}} | <a href="{{site.baseurl}}{{ page.url }}"> ({{ page.url }})</a> | {{ page.language }} |
 {% endfor %}
