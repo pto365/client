@@ -1,6 +1,5 @@
 ---
 title: Pages
-layout: page
 ---
 
 | Title | Link | Language |
