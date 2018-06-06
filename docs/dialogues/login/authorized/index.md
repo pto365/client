@@ -1,5 +1,5 @@
 ---
-title: Warm welcome - First to sign in
+title: Warm welcome - First to sign in ...
 action1title: Configure
 action1: We have some questions for you which impacts the experience.
 action2title: Change Owner
