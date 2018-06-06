@@ -1,5 +1,5 @@
 ---
-title: Sitemap
+title: Pages
 layout: page
 ---
 
