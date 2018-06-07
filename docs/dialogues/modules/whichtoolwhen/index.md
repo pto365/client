@@ -22,7 +22,7 @@ Both are described here
 | --- | --- | --- | --- | --- | --- |  --- | --- |
 |Document authoring|
 | | Write a letter | Word |  |  | Notepad  | Skriv et brev | 手紙を書く  | |
-| | | Word Online |  |  | | | | | 
+| | |  | Word Online |  | | | | | 
 
 
 ### Columns 
@@ -31,20 +31,20 @@ Both are described here
 | --- | --- | --- |
 | Area | Area of task |  Document authoring |
 | Task | Topic of task | Write a document
-| 5 | Tag of Best tool for the job| Word |
-| 4 | | Tag |
-| 3 | | Tag |
-| 2 | | Tag | 
-| 1 | Tag of worst tool | Notepad |
+| Best | Tag of Best tool for the job| Word |
+| Better | | Tag |
+| Worse | | Tag |
+| Worst | Tag of worst tool | Notepad |
 | (xx) | Translation, use an [ISO 639-1 Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) | ja for Japanese|
 ___
 
 
 ## Tools tab
+
 | Tag | Link | Description | Icon |  da | en |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Outlook | #/services/outlook | . | data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA.... | Outlook | Outlook |
-| Megawriter | https://megawriter |. |data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA.... | 
+| --- | --- | --- | --- | --- | --- |
+| Outlook | #/services/outlook | . | https://cdn.jumpto365.com/images/apps/microsoft/office365/outlook.png | Outlook | Outlook |
+
 
 
 
