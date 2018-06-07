@@ -18,11 +18,11 @@ Both are described here
 
 ## WTW tab 
 
-| Area | Task | 5 (best) | 4 | 3 | 2 | 1 (worst) | da | ja |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Area | Task | best | better | worse | worst | da | ja |
+| --- | --- | --- | --- | --- | --- |  --- | --- |
 |Document authoring|
-| | Write a letter | Word |  |  | | Notepad  | Skriv et brev | 手紙を書く  | |
-| | | Word Online |  |  | | | | | |
+| | Write a letter | Word |  |  | Notepad  | Skriv et brev | 手紙を書く  | |
+| | | Word Online |  |  | | | | | 
 
 
 ### Columns 
