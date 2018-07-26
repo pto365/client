@@ -1,13 +1,12 @@
 ---
 title: Warm welcome - First to sign in ...
-action1title: Configure
-action1: We have some questions for you which impacts the experience.
-action2title: Change Owner
-action2: If you know that another one within your company should be the owner
+xaction1title: Configure
+xaction1: We have some questions for you which impacts the experience.
+xaction2title: Change Owner
+xaction2: If you know that another one within your company should be the owner
 buttonLogin: Login
 ---
 
-{% assign tenant = site.data.tenant %}
 
 Your are the first to visit Jumpto365 from your Office 365 tenant, so you have been designated as owner. 
 
