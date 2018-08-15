@@ -486,5 +486,135 @@
     "fi": "Esikatselu",
     "sv": "Preview",
     "cs": "Náhled"
+  },
+  {
+    "id": "33",
+    "en": "Which tool when?",
+    "da": "Find rette værktøj "
+  },
+  {
+    "id": "34",
+    "en": "Explore",
+    "da": "Undersøg "
+  },
+  {
+    "id": "35",
+    "en": "Share",
+    "da": "Deling"
+  },
+  {
+    "id": "36",
+    "en": "Logout",
+    "da": "Logaf"
+  },
+  {
+    "id": "37",
+    "en": "Profile",
+    "da": "Profil"
+  },
+  {
+    "id": "38",
+    "en": "Your profile",
+    "da": "Din profil"
+  },
+  {
+    "id": "39",
+    "en": "Select file",
+    "da": "Vælg fil"
+  },
+  {
+    "id": "40",
+    "en": "No data",
+    "da": "Ingen data"
+  },
+  {
+    "id": "41",
+    "en": "Cannot preview that",
+    "da": "Kan ikke vises"
+  },
+  {
+    "id": "42",
+    "en": "Upload",
+    "da": "Upload"
+  },
+  {
+    "id": "43",
+    "en": "Format not support",
+    "da": "Formattet er ikke understøttet"
+  },
+  {
+    "id": "44",
+    "en": "The file you try to upload appears to be a ",
+    "da": "Den fil som du uploader ser ud til at være en "
+  },
+  {
+    "id": "45",
+    "en": " - We currently only supports Excel files",
+    "da": "- Vi understøtter p.t. kun Excel filer"
+  },
+  {
+    "id": "46",
+    "en": "Select location in file",
+    "da": "Vælg sted i filen"
+  },
+  {
+    "id": "47",
+    "en": "Search"
+  },
+  {
+    "id": "48",
+    "en": "Filter"
+  },
+  {
+    "id": "49",
+    "en": "Area"
+  },
+  {
+    "id": "50",
+    "en": "Areas"
+  },
+  {
+    "id": "51",
+    "en": "Tool"
+  },
+  {
+    "id": "52",
+    "en": "Tools"
+  },
+  {
+    "id": "53",
+    "en": "Task"
+  },
+  {
+    "id": "54",
+    "en": "Details"
+  },
+  {
+    "id": "55",
+    "en": "Select"
+  },
+  {
+    "id": "56",
+    "en": "Sorry, the content isn't available in your prefered language"
+  },
+  {
+    "id": "57",
+    "en": "Machine translated versions"
+  },
+  {
+    "id": "58",
+    "en": "Human translated versions"
+  },
+  {
+    "id": "59",
+    "en": "Options"
+  },
+  {
+    "id": "60",
+    "en": "User"
+  },
+  {
+    "id": "61",
+    "en": "User id"
   }
 ]
