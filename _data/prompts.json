@@ -559,62 +559,77 @@
   },
   {
     "id": "47",
-    "en": "Search"
+    "en": "Search",
+    "da": "Søg"
   },
   {
     "id": "48",
-    "en": "Filter"
+    "en": "Filter",
+    "da": "Filtrer"
   },
   {
     "id": "49",
-    "en": "Area"
+    "en": "Area",
+    "da": "Område"
   },
   {
     "id": "50",
-    "en": "Areas"
+    "en": "Areas",
+    "da": "Områder"
   },
   {
     "id": "51",
-    "en": "Tool"
+    "en": "Tool",
+    "da": "Værktøj"
   },
   {
     "id": "52",
-    "en": "Tools"
+    "en": "Tools",
+    "da": "Værktøjer"
   },
   {
     "id": "53",
-    "en": "Task"
+    "en": "Task",
+    "da": "Opgave"
   },
   {
     "id": "54",
-    "en": "Details"
+    "en": "Details",
+    "da": "Detaljer"
   },
   {
     "id": "55",
-    "en": "Select"
+    "en": "Select",
+    "da": "Vælg"
   },
   {
     "id": "56",
-    "en": "Sorry, the content isn't available in your prefered language"
+    "en": "Sorry, the content isn't available in your prefered language",
+    "da": "Beklager, men vi har ikke en oversættelse af dette indhold på dit foretrukkende sprog"
   },
   {
     "id": "57",
-    "en": "Machine translated versions"
+    "en": "Machine translated versions",
+    "da": "Maskinoversatte udgaver"
   },
   {
     "id": "58",
-    "en": "Human translated versions"
+    "en": "Human translated versions",
+    "da": "Oversættelser"
   },
   {
     "id": "59",
-    "en": "Options"
+    "en": "Options",
+    "da": "Muligheder"
   },
   {
     "id": "60",
-    "en": "User"
+    "en": "User",
+    "da": "Bruger"
   },
   {
     "id": "61",
-    "en": "User id"
+    "en": "User id",
+    "da": "Bruger id"
   }
 ]
