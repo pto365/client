@@ -17,5 +17,5 @@ If you have suggestions, please visit our [idea portal](https://ideas.jumpto365.
 ## Legalese​
 You may use this product for free as long as you retain credit to Matt Wade and Niels Gregers Johansen any time you use it, with direct link back to this page. Embedding on your website, intranet, blog etc. is our preferred use case.​ You may not use this product in promotional or marketing material or any profit-bearing way. Licensing will be discussed for such use cases. ​ We are not at all affiliated with Microsoft Corporation. Though we must say, we’re big fans of their work.​
 
-##Special Thanks​
+## Special Thanks​
 Cheers to our excellent translators: [COMPONENT](https://component.ref/Version)
