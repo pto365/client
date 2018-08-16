@@ -1,6 +1,6 @@
 {
   "name": "pto365-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Localisation of jumpto365 client",
   "main": "index.js",
   "directories": {
