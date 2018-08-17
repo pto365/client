@@ -3,7 +3,7 @@ title: Jumpto365 - The "App"
 ---
 ## About
 
-The Periodic Table of Office 365 is a brainchild of Matt Wade, an American Office 365 consultant, and was originally published as a flat graphic in PNG format (how it was made).
+The Periodic Table of Office 365 is a brainchild of Matt Wade, an American [Office 365 consultant](https://www.h3s-inc.com/), and was originally published as a flat graphic in PNG format [(how it was made)](https://www.linkedin.com/pulse/how-its-made-periodic-table-office-365-matt-wade/).
 
 With the expert help of Niels Gregers Johansen, a Danish multidisciplinary collaboration tools geek, we now present a dynamic, web-based version that you can easily access on almost any device, and embed locally on your website, intranet, blog, etc.
 
