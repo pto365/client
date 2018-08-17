@@ -7,8 +7,9 @@ The Periodic Table of Office 365 is a brainchild of Matt Wade, an American Offic
 
 With the expert help of Niels Gregers Johansen, a Danish multidisciplinary collaboration tools geek, we now present a dynamic, web-based version that you can easily access on almost any device, and embed locally on your website, intranet, blog, etc.
 
-![COMPONENT](https://component.ref/MattNiels)
-[COMPONENT](https://via.placeholder.com/350x150/MattNiels)
+[COMPONENT](https://component.ref/MattNiels)
+
+![COMPONENT](https://via.placeholder.com/350x150/MattNiels)
 
 
 ## Ideas?​
