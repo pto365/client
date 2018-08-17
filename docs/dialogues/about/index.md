@@ -9,7 +9,7 @@ With the expert help of Niels Gregers Johansen, a Danish multidisciplinary colla
 
 [COMPONENT](https://component.ref/MattNiels)
 
-![COMPONENT](https://via.placeholder.com/350x150/MattNiels)
+![COMPONENT](https://dummyimage.com/600x400/000/fff&text=MattNiels&/MattNiels)
 
 
 ## Ideas?​
