@@ -21,4 +21,4 @@ You may use this product for free as long as you retain credit to Matt Wade and 
 ## Special Thanks​
 
 
-Cheers to our excellent translators: ![COMPONENT](https://dummyimage.com/800x100/000/fff&text=Translators&/Translators)
+Cheers to our excellent translators: ![COMPONENT](https://dummyimage.com/800x100/000/fff&text=Languages&/Languages)
