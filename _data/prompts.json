@@ -631,5 +631,20 @@
     "id": "61",
     "en": "User id",
     "da": "Bruger id"
+  },
+  {
+    "id": "62",
+    "en": "Loading",
+    "da": "Indlæser"
+  },
+  {
+    "id": "63",
+    "en": "and",
+    "da": "og"
+  },
+  {
+    "id": "64",
+    "en": "Home",
+    "da": "Hjem"
   }
 ]
