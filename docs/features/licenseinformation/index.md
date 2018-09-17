@@ -1,5 +1,5 @@
 ---
-title: Office 365 Licenses
+title: Filter by Office 365 license
 ---
 
 ## Small Business
