@@ -3,7 +3,7 @@ title: Insider sign up
 funclevel: 1
 ---
 # Level 1
-{“cols”:[{"header":{"visible":false},“style”:”width:75%;xbackground-color:red”},{“style”:”width:25%;background-color:gray}]}
+{“cols”:[{"header":{"hidden":true},“style”:”width:75%;xbackground-color:red”},{“style”:”width:25%;background-color:gray}]}
 ## Make an impact
 We really like you to help us help you as we are developing the personalized experience. What it requires from you is a consent to get read/write access to your OneDrive files. You have our  guarantee that we do not transmit, temporarily or permanently store any of your data. 
 
