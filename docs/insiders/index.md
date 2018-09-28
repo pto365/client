@@ -2,6 +2,16 @@
 title: Insider sign up
 funclevel: 1
 ---
+
+# Intro
+## The Periodic Table is soon a real productivity tool
+
+Your entry point to the Modern Workplace
+- Gain control over the Employee Experience
+- Shorten the path to tool
+- Which tool when
+
+
 # Level 1
 {“cols”:[{"header":{"hidden":true},“style”:”width:75%;xbackground-color:red”},{“style”:”width:25%;background-color:gray}]}
 ## Make an impact
