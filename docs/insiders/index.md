@@ -4,7 +4,7 @@ funclevel: 1
 ---
 
 # Intro
-## The Periodic Table is soon a real productivity tool
+## The Periodic Table is becoming a real productivity tool
 
 Your entry point to the Modern Workplace
 - Gain control over the Employee Experience
