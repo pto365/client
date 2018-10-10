@@ -9,8 +9,9 @@
 }
 </style>
 <div class="m" >MAILS</div>
+{{#each value}}
+<h2>{{subject}}</h2>
+<div>{{bodyPreview}}</div>
+{{/each}}
 
-<div class="ms-font-xl">{{displayName}}</div>
-<ul>Mail: {{mail}}</ul>
-<ul>Next: {{@odata.nextLink}}</ul>
-<ul>Mobile Phone: {{mobilePhone}}</ul>
+
