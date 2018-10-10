@@ -3,12 +3,14 @@
     font-size: 80px;
     background-color: aquamarine;
     color: burlywood;
-    padding: 20px
+    padding: 20px;
+    margin-left: -16px;
+    margin-right:-16px;
 }
 </style>
 <div class="m" >MAILS</div>
 
 <div class="ms-font-xl">{{displayName}}</div>
 <ul>Mail: {{mail}}</ul>
-<ul>Department: {{department}}</ul>
+<ul>Next: {{@odata.nextLink}}</ul>
 <ul>Mobile Phone: {{mobilePhone}}</ul>
