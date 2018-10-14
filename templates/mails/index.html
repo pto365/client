@@ -10,7 +10,9 @@
 </style>
 <div class="m" >MAILS</div>
 {{#each value}}
-<h2>{{subject}}</h2>
+<div>from {{sender.emailAddress.name}} ({{sender.emailAddress.address}})</div>
+<h2><a target="_blank" href="{{webLink}}">{{subject}}</a></h2>
+<div>{{createdDateTime}}</div>
 <div>{{bodyPreview}}</div>
 {{/each}}
 
