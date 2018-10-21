@@ -1,6 +1,6 @@
 ---
 title: Bricks
+hidemasthead: true
 ---
-## Office Graph Bricks
 - Me 
 - Mails 
