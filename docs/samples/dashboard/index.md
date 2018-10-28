@@ -1,5 +1,5 @@
 ---
-Title: Sample Dashboardle
+Title: Sample Dashboard
 ---
 # My Job
 
