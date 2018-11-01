@@ -13,7 +13,7 @@ With the expert help of Niels Gregers Johansen, a Danish multidisciplinary colla
 ## Ideas?​
 We are eager to make this the go-to tool for easily explaining Office 365 to anybody. Quickly understand what Office 365 is, which apps are included, how those apps relate, and which app does what. It should also help in figuring out when to use what. You can even embed the page into your website or intranet as an always-available, constantly up-to-date resource.
 
-If you have suggestions, please visit our [idea portal](https://ideas.jumpto365.com/)
+If you have suggestions, please visit our [Community portal](https://jumpto365.zendesk.com/hc/en-us/community/topics/360000858971-Feature-Requests)
 
 ## Legalese​
 You may use this product for free as long as you retain credit to Matt Wade and Niels Gregers Johansen any time you use it, with direct link back to this page. Embedding on your website, intranet, blog etc. is our preferred use case.​ You may not use this product in promotional or marketing material or any profit-bearing way. Licensing will be discussed for such use cases. ​ We are not at all affiliated with Microsoft Corporation. Though we must say, we’re big fans of their work.​
