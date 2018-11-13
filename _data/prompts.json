@@ -464,7 +464,7 @@
   },
   {
     "id": "25",
-    "en": "Login",
+    "en": "Sign In",
     "de": "Anmeldung",
     "da": "Login",
     "es": "Iniciar sesión",
@@ -638,7 +638,7 @@
   },
   {
     "id": "36",
-    "en": "Logout",
+    "en": "Sign Out",
     "de": "Ausloggen ",
     "da": "Logaf",
     "fr": "Se déconnecter",
