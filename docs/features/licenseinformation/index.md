@@ -1,6 +1,7 @@
 ---
 title: Filter by Office 365 license
 ---
+Below are Microsoft's Office 365 license offerings. Select a license type to see a filtered view of the Periodic Table specific to the apps that are available in that license. If you don't know which license you have, ask your IT administrator.
 
 ## Small Business
 - [Business Essentials](https://app.jumpto365.com/license/Business Essentials)
