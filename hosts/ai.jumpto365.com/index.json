@@ -1,4 +1,5 @@
 {
+    "rootContext" : "ai",
     "hasContextMenuAction" : false,
     "hasFilterMenuAction" : false,
     "hasWTWMenuAction" : false,
@@ -7,6 +8,7 @@
     "blogURL" : "https://medium.com/jumpto365",
     "helpURL" : "https://jumpto365.zendesk.com/hc/en-us",
     "appURL" : "/pages/jumpto365.zendesk.com/hc/en-us",
+    "appText" : "jumpto365 App",
     "aboutURL" : "/pages/docs/features/ai"
 
 }
