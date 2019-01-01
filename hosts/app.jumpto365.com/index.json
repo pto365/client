@@ -1,0 +1,12 @@
+{
+    "hasContextMenuAction" : true,
+    "hasFilterMenuAction" : true,
+    "hasWTWMenuAction" : true,
+    "hasEmbedMenuAction" : true,
+    "hasAboutMenuAction" : true,
+    "blogURL" : "https://medium.com/jumpto365",
+    "helpURL" : "https://jumpto365.zendesk.com/hc/en-us",
+    "appURL" : "/pages/jumpto365.zendesk.com/hc/en-us",
+    "aboutURL" : "/about"
+
+}
