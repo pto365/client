@@ -9,6 +9,7 @@
     "helpURL" : "https://jumpto365.zendesk.com/hc/en-us",
     "appURL" : "/pages/jumpto365.zendesk.com/hc/en-us",
     "appText" : "jumpto365 App",
-    "aboutURL" : "/pages/docs/features/ai"
-
+    "aboutURL" : "/pages/docs/features/ai",
+    "canAuthenticate" : false,
+    "hasIntroMessage": false
 }
