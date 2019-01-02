@@ -7,8 +7,8 @@
     "hasAboutMenuAction" : false,
     "blogURL" : "https://medium.com/jumpto365",
     "helpURL" : "https://jumpto365.zendesk.com/hc/en-us",
-    "appURL" : "/pages/jumpto365.zendesk.com/hc/en-us",
-    "appText" : "jumpto365 App",
+    "appURL" : "https://app.jumpto365.com",
+    "appText" : "Office 365 Table",
     "aboutURL" : "/pages/docs/features/ai",
     "canAuthenticate" : false,
     "hasIntroMessage": false
