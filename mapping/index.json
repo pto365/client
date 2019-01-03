@@ -1,6 +1,9 @@
 [{
         "table": "skills",
-        "signature": ["Skill", "Capability"]
+        "signature": ["Skill", "Capability"],
+        "key": ["title"],
+        "title": "Skill",
+        "text1": "Capability"
     },
     {
         "table": "capabilities",
@@ -22,19 +25,31 @@
     },
     {
         "table": "WTW",
-        "signature": ["Area","Use case"]
+        "signature": ["Area", "Use case"]
     },
     {
         "table": "tools",
-        "signature": ["key","Title"]
+        "signature": ["key", "Title"],
+        "key": ["title"],
+        "title": "key",
+        "text1": "Title",
+        "text2": "Subtitle",
+        "text3": "background",
+        "text4": "path"
     },
     {
         "table": "tableof",
-        "signature": ["","","1","","","2"]
+        "signature": ["", "", "1", "", "", "2"]
     },
     {
         "table": "groups",
-        "signature": ["key","Is Connector"]
+        "signature": ["key", "Is Connector"],
+        "key": ["title"],
+        "title": "key",
+        "int1": "Is Connector",
+        "text1": "Title",
+        "text2": "Color",
+        "text3": "Border Color"
     }
 
 
