@@ -1,0 +1,41 @@
+[{
+        "table": "skills",
+        "signature": ["Skill", "Capability"]
+    },
+    {
+        "table": "capabilities",
+        "signature": ["Capability"]
+
+    },
+    {
+        "table": "Paths",
+        "signature": ["Level", "Role", "Skill"]
+    },
+
+    {
+        "table": "Licenses",
+        "signature": ["License Name"]
+    },
+    {
+        "table": "Triggers",
+        "signature": ["Trigger Name"]
+    },
+    {
+        "table": "WTW",
+        "signature": ["Area","Use case"]
+    },
+    {
+        "table": "tools",
+        "signature": ["key","Title"]
+    },
+    {
+        "table": "tableof",
+        "signature": ["","","1","","","2"]
+    },
+    {
+        "table": "groups",
+        "signature": ["key","Is Connector"]
+    }
+
+
+]
