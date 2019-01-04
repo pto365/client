@@ -25,10 +25,12 @@
     },
     {
         "table": "WTW",
+        "loader": "wtw",
         "signature": ["Area", "Use case"]
     },
     {
         "table": "tools",
+        "loader": "tools",
         "signature": ["key", "Title"],
         "key": ["title"],
         "title": "key",
@@ -39,10 +41,12 @@
     },
     {
         "table": "tableof",
+        "loader": "pto",
         "signature": ["", "", "1", "", "", "2"]
     },
     {
         "table": "groups",
+        "loader": "groups",
         "signature": ["key", "Is Connector"],
         "key": ["title"],
         "title": "key",
