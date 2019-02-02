@@ -14,5 +14,6 @@
     "image": "/media/Thumbnail.JPG",
     "url": "https://app.jumpto365.com",
     "type": "infographic",
-    "locale": "en_US"
+    "locale": "en_US",
+    "canAuthenticate" : false
 }
