@@ -1,0 +1,18 @@
+{
+    "hasContextMenuAction": true,
+    "hasFilterMenuAction": true,
+    "hasWTWMenuAction": true,
+    "hasEmbedMenuAction": true,
+    "hasAboutMenuAction": true,
+    "blogURL": "https://medium.com/jumpto365",
+    "helpURL": "https://jumpto365.zendesk.com/hc/en-us",
+    "appURL": "/pages/jumpto365.zendesk.com/hc/en-us",
+    "appText": "jumpto365 App",
+    "aboutURL": "/about",
+    "description": "Easily explain Office 365 to anybody. Quickly understand what Office 365 is, which apps are included, how those apps relate, and what each app does. Easily figure out \"when to use what\" and even embed the page into your website or intranet as an always-available resource.",
+    "site_name": "Periodic Table of Office 365",
+    "image": "/media/Thumbnail.JPG",
+    "url": "https://app.jumpto365.com",
+    "type": "infographic",
+    "locale": "en_US"
+}
