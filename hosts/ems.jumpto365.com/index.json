@@ -1,0 +1,16 @@
+{
+    "rootContext" : "ems",
+    "version":2,
+    "hasContextMenuAction" : false,
+    "hasFilterMenuAction" : false,
+    "hasWTWMenuAction" : false,
+    "hasEmbedMenuAction" : false,
+    "hasAboutMenuAction" : false,
+    "blogURL" : "https://medium.com/jumpto365",
+    "helpURL" : "https://jumpto365.zendesk.com/hc/en-us",
+    "appURL" : "https://app.jumpto365.com",
+    "appText" : "Office 365 Table",
+    "aboutURL" : "/pages/docs/features/ems",
+    "canAuthenticate" : false,
+    "hasIntroMessage": false
+}
