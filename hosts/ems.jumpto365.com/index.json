@@ -12,5 +12,6 @@
     "appText" : "Office 365 Table",
     "aboutURL" : "/pages/docs/features/ems",
     "canAuthenticate" : false,
-    "hasIntroMessage": false
+    "hasIntroMessage": false,
+    "isSubsite":true
 }

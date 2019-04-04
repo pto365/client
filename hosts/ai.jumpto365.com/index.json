@@ -11,5 +11,6 @@
     "appText" : "Office 365 Table",
     "aboutURL" : "/pages/docs/features/ai",
     "canAuthenticate" : false,
-    "hasIntroMessage": false
+    "hasIntroMessage": false,
+    "isSubsite":true
 }
