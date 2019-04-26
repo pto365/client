@@ -1,4 +1,6 @@
 {
+    "rootContext" : "logo",
+    "version":2,
     "hasContextMenuAction": true,
     "hasFilterMenuAction": true,
     "hasWTWMenuAction": true,
