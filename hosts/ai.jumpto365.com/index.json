@@ -5,12 +5,12 @@
     "hasWTWMenuAction" : false,
     "hasEmbedMenuAction" : false,
     "hasAboutMenuAction" : false,
-    "blogURL" : "https://medium.com/jumpto365",
+    "blogURL" : "https://jumpto365.com/blog",
     "helpURL" : "https://jumpto365.zendesk.com/hc/en-us",
     "appURL" : "https://app.jumpto365.com",
     "appText" : "Office 365 Table",
-    "aboutURL" : "/pages/docs/features/ai",
+    "aboutURL" : "https://jumpto365.com/about",
     "canAuthenticate" : false,
     "hasIntroMessage": false,
     "isSubsite":true
-}
+}   
